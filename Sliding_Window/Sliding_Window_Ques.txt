@@ -1,0 +1,11 @@
+# Different Variant of Sliding Window Ques -
+1. Performing Sliding Window in 1D Array -
+Problems to solve -
+a. https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1
+b. https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
+c. https://leetcode.com/problems/minimum-size-subarray-sum/description/
+d. https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+e. https://leetcode.com/problems/minimum-window-substring/
+f. https://leetcode.com/problems/contains-duplicate-ii/
+g. https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/
+h.

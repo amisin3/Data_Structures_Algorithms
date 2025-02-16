@@ -1,0 +1,16 @@
+# Different Variant of Binary Search
+1. Apply binary search on the decimal range
+a. We will always get the precision meaning if the answer lies between that precision than it will
+    accept the answer
+Video to understand - https://www.youtube.com/watch?v=GJ1PJzTYbas
+Problems to solve -
+1. https://leetcode.com/problems/separate-squares-i/description/?slug=sum-of-good-numbers&region=global_v2
+If you see they have mention the precession here -
+Answers within 10-5 of the actual answer will be accepted.
+
+
+2. Find the minimum of or maximum of any range, kuch bhi diya ho think in terms of Binary Search
+Problems to solve -
+1. https://leetcode.com/problems/koko-eating-bananas/description/
+2. https://leetcode.com/problems/minimum-time-to-complete-trips/ (Was asked to me in Meesho for SDE-2)
+
